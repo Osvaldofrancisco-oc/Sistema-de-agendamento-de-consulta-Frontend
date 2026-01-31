@@ -41,7 +41,7 @@ function Login() {
     }
   }
 
-  console.log('LOGIN USER:', user)
+  // console.log('LOGIN USER:', user)
 
 
   return (

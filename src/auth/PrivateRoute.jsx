@@ -10,7 +10,7 @@ export default function PrivateRoute({ children, roles }) {
 
   }
 
-  console.log('USER:', user)
+  // console.log('USER:', user)
 
 
   // 2️⃣ NÃO logado
